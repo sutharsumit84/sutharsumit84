@@ -43,7 +43,7 @@ Let’s connect and innovate together! 🚀
 
 I'm always open to conversations, collaborations, and coffee chats with fellow developers and tech enthusiasts.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/9675-sumit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suthar-sumit)
 
 ---
 
